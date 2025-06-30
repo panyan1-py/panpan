@@ -90,10 +90,22 @@ src/app
 
 ## 文档截图
 ![架构图](https://img.picui.cn/free/2025/06/30/686283de5ca84.png)架构图1
-(https://img.picui.cn/free/2025/06/30/686283d8dea2f.png)架构图2
-(https://img.picui.cn/free/2025/06/30/686283d624b8c.png)架构图3
-(https://img.picui.cn/free/2025/06/30/6862891355a02.png)时长图 
-(https://img.picui.cn/free/2025/06/30/68628a0aaaa77.png)时长为3个账户总时长，网页运用PanPan账户
+![架构图](https://img.picui.cn/free/2025/06/30/686283d8dea2f.png)架构图2
+![架构图](https://img.picui.cn/free/2025/06/30/686283d624b8c.png)架构图3
+![架构图](https://img.picui.cn/free/2025/06/30/6862891355a02.png)时长图 
+![架构图](https://img.picui.cn/free/2025/06/30/68628a0aaaa77.png)时长为3个账户总时长，网页运用PanPan账户
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3bf39307.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3bf2fd04.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3bc4dd7e.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3bd42a38.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3bdf4132.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3c2b58a3.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3c516f80.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3c5d0853.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3c6945b2.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3c78173a.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3c8b8412.png)
+![架构图](https://img.picui.cn/free/2025/06/30/6862b3caa50da.png)
 ![QAnything集成](https://img.picui.cn/free/2025/06/30/686283d85b54f.png)
 
 推荐使用 [Vercel平台](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 部署您的Next.js应用。
